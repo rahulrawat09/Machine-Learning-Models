@@ -1,4 +1,4 @@
-# Naive Bayes
+# IRIS Classification using Naive Bayes
 
 # Importing the libraries
 import numpy as np
